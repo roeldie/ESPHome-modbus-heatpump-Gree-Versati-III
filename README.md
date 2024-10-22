@@ -1,4 +1,4 @@
-# ESPHome modbus - heatpump Gree Versati III
+# ESPHome modbus - heatpump cooper and hunter UNITERM 3
 
 ## Description:
 This manual describes how to connect the device to Home Assistant via Modbus protocol using ESP and RS485/TTL converter.
